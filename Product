@@ -1,0 +1,31 @@
+# Plannly
+
+## ¿Qué es?
+
+Plannly es un planificador visual para creadores de contenido que usan Notion.
+
+Su objetivo es permitir planificar, organizar y previsualizar el contenido antes de publicarlo.
+
+---
+
+## Funciones V1
+
+- [ ] Conexión con Notion
+- [ ] Grid de Instagram
+- [ ] Hasta 60 imágenes
+- [ ] Links externos
+- [ ] Canva Connect
+- [ ] Carruseles
+- [ ] Reels
+- [ ] Hover con información
+- [ ] Dark Mode
+- [ ] Profile Preview
+- [ ] Post Preview
+- [ ] Content Map
+- [ ] Plan Grid (drag & drop)
+
+---
+
+## Objetivo
+
+Crear una aplicación web que cualquier usuario pueda conectar con su espacio de Notion para planificar visualmente su contenido.
