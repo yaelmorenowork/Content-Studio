@@ -1,0 +1,45 @@
+# Plannly - Estructura de la aplicación
+
+## Pantallas
+
+- Landing Page
+- Login
+- Dashboard
+- Widgets
+- Nuevo Widget
+- Configuración
+- Cuenta
+
+---
+
+## Flujo del usuario
+
+Landing
+
+↓
+
+Crear cuenta
+
+↓
+
+Conectar Notion
+
+↓
+
+Crear Widget
+
+↓
+
+Configurar Widget
+
+↓
+
+Copiar enlace
+
+↓
+
+Pegar en Notion
+
+↓
+
+¡Listo!
